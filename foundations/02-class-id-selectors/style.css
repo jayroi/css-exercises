@@ -1,0 +1,26 @@
+/* rule 1 */
+
+.odd {
+    font-family:  Verdana,sans-serif;
+        background-color: rosybrown;
+
+}
+
+/* rule 2*/
+#two {
+    color: blue;
+        font-size: 36px
+    }
+
+/* rule 3*/
+.three {
+    font-size: 24px
+    
+ }
+
+/* rule 4*/
+#four {
+    background-color: greenyellow;
+        font-size: 24px;
+        font-weight:bold
+    }
